@@ -1,0 +1,68 @@
+{
+  "note": "Synthetic File Janitor sandbox data. No real customer records.",
+  "records": [
+    {
+      "id": "f001",
+      "name": "report.pdf",
+      "path": "/sandbox/Downloads/report.pdf",
+      "file_type": "pdf",
+      "size_kb": 820,
+      "checksum": "abc123",
+      "modified": "2026-09-28"
+    },
+    {
+      "id": "f002",
+      "name": "report_copy.pdf",
+      "path": "/sandbox/Downloads/report_copy.pdf",
+      "file_type": "pdf",
+      "size_kb": 820,
+      "checksum": "abc123",
+      "modified": "2026-09-29"
+    },
+    {
+      "id": "f003",
+      "name": "photo.jpg",
+      "path": "/sandbox/Downloads/photo.jpg",
+      "file_type": "jpg",
+      "size_kb": 2450,
+      "checksum": "photo001",
+      "modified": "2026-09-25"
+    },
+    {
+      "id": "f004",
+      "name": "photo_copy.jpg",
+      "path": "/sandbox/Downloads/photo_copy.jpg",
+      "file_type": "jpg",
+      "size_kb": 2450,
+      "checksum": "photo001",
+      "modified": "2026-09-26"
+    },
+    {
+      "id": "f005",
+      "name": "notes.txt",
+      "path": "/sandbox/Downloads/notes.txt",
+      "file_type": "txt",
+      "size_kb": 12,
+      "checksum": "notes001",
+      "modified": "2026-09-20"
+    },
+    {
+      "id": "f006",
+      "name": "presentation.pptx",
+      "path": "/sandbox/Documents/presentation.pptx",
+      "file_type": "pptx",
+      "size_kb": 1540,
+      "checksum": "pres001",
+      "modified": "2026-09-27"
+    },
+    {
+      "id": "f007",
+      "name": "presentation_old.pptx",
+      "path": "/sandbox/Documents/presentation_old.pptx",
+      "file_type": "pptx",
+      "size_kb": 1300,
+      "checksum": "pres002",
+      "modified": "2026-08-10"
+    }
+  ]
+}
